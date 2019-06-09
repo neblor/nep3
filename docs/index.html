@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>Nep-3 Story</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple-dark.css">
+  <style>
+    /* Font */
+    /* @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css); */
+
+    /* Cover
+============================================================================= */
+    :root {
+      --theme-color: rgb(55, 156, 214);
+      --base-color: rgb(200, 200, 180);
+
+      --cover-background-color: #080346;
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'Nep-3 Story',
+      repo: 'https://github.com/neplor/nep3',
+      loadSidebar: true,
+      maxLevel: 2,
+      subMaxLevel: 2,
+      search: {
+        noData: {
+          '/': 'No results!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': 'Search'
+        }
+      },
+      tabs: {
+        persist: true,
+        sync: true,
+        theme: 'material', // 还有一个是 classic
+        tabComments: true,
+        tabHeadings: true
+      },
+      coverpage: true
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify-copy-code"></script>
+  <script src="https://unpkg.com/docsify-tabs@1"></script>
+</body>
+</html>
