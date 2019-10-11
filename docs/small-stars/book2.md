@@ -13,7 +13,7 @@ Unit 1
 
 - 🦉 **`Mel`** is a `bird`
 - 🦄 **`Zap`** is a `unicorn`, not `horse`
-- 👦🏻 **`Roddy`** is a `kid`
+- 👦 **`Roddy`** is a `kid`
 - 🐻 **`Ben`** is a `bear`
 - 🐸 **`Kev`** is a `frog`
 - 🦔 **`Vic`** is a `hedgehog`
