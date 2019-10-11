@@ -12,11 +12,11 @@ Unit 1
 背出人物及其名字，以及对应的动物名。
 
 - 🦉 **`Mel`** is a `bird`
-- 🦄 **`Zap`** is a `unicorn`
+- 🦄 **`Zap`** is a `unicorn`, not `horse`
 - 👦🏻 **`Roddy`** is a `kid`
 - 🐻 **`Ben`** is a `bear`
 - 🐸 **`Kev`** is a `frog`
-- 🦔 **`Vic`** is a `Hedgehog`
+- 🦔 **`Vic`** is a `hedgehog`
 
 ### Name question
 
