@@ -20,15 +20,15 @@ Unit 1
 
 ### Name question
 
-?> What's your name?
+!> What's your name?
 
-> I'm **Neplor**.
+?> I'm **Neplor**.
 
 ---
 
-?> Who is it?
+!> Who is it?
 
-> It's **Zap**.
+?> It's **Zap**.
 
 ### Met words
 
