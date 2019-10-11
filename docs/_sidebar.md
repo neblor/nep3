@@ -1,5 +1,8 @@
 <!-- docs/_sidebar.md -->
 
+- Small Stars
+  - [Book 2](small-stars/book2.md)
+
 - 简单任务
   - [海王三号](episodes/19326-neptune-3.md)
   - [灰与白的尽头](episodes/19420-gray-and-white.md)
