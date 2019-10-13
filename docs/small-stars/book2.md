@@ -41,35 +41,35 @@ Unit 1
 
 互扔球的方式询问对方名字，练习`What's your name?`和`I'm <name>`的句式。
 
-## 🧶 How are you?
+### 🧶 How are you?
 
 练习问候语，并根据随机回答做出表情。
 
-### 基础情感
+**怎么回答**
 
 <!-- tabs:start -->
 
-#### ** 感觉很High **
+#### 感觉很High
 
 I'm `happy`.
 
-#### ** 感觉想死 **
+#### 感觉想死
 
 I'm `sad`.
 
-#### ** 即没有很High也还不想死 **
+#### 即没有很High也还不想死
 
 I'm `fine`.
 
 <!-- tabs:end -->
 
-## Alphabet Train
+### Alphabet Train
 
 _熟悉26个英文字母_
 
 **熟悉26个英文字母的拼读**
 
-## Sentence
+### Sentence
 
 !> What does 'A' say?
 
