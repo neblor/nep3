@@ -108,7 +108,7 @@ _熟悉26个英文字母_
 
 ?> It's purple.
 
-🧶**[There's more colours here!](colours.md)** 🌈
+🧶**[There's more colours here!](../small-stars/colours.md)** 🌈
 
 ### The pit of number
 
