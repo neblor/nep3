@@ -118,20 +118,12 @@ _熟悉26个英文字母_
 
 ### My strong body 💪
 
-- `arms`
-- `ears`
-- `eyes`
-- `face`
-- `hair`
-- `head`
-- `legs`
-- `mouth`
-- `nose`
-- `foot`
-- `teeth`
-- `chest`
-- `belly`
-- `hip` _(buttock)_
+|||||
+|---|---|---|---|
+|`arms`|`ears`|`eyes`|`chest`|
+|`face`|`hair`|`head`|`belly`|
+|`legs`|`mouth`|`nose`|`hip`|
+|`foot`|`teeth`|||
 
 ### 🧶Number question
 
