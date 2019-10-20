@@ -3,7 +3,7 @@ Unit 1
 
 ## Lesson 1
 
-### 🧶 Happy & Sad
+### 🧶Happy & Sad
 
 用两个纸片画笑脸和哭脸，熟悉`I'm happy`和`I'm sad`语句。
 
@@ -11,12 +11,12 @@ Unit 1
 
 背出人物及其名字，以及对应的动物名。
 
-- 🦉 **`Mel`** is a `bird`
-- 🦄 **`Zap`** is a `unicorn`, not `horse`
-- 👦 **`Roddy`** is a `kid`
-- 🐻 **`Ben`** is a `bear`
-- 🐸 **`Kev`** is a `frog`
-- 🦔 **`Vic`** is a `hedgehog`
+- 🦉**`Mel`** is a `bird`
+- 🦄**`Zap`** is a `unicorn`, not `horse`
+- 👦**`Roddy`** is a `kid`
+- 🐻**`Ben`** is a `bear`
+- 🐸**`Kev`** is a `frog`
+- 🦔**`Vic`** is a `hedgehog`
 
 ### Name question
 
@@ -37,11 +37,11 @@ Unit 1
 
 ## Lesson 2
 
-### 🧶 What's your name?
+### 🧶What's your name?
 
 互扔球的方式询问对方名字，练习`What's your name?`和`I'm <name>`的句式。
 
-### 🧶 How are you?
+### 🧶How are you?
 
 练习问候语，并根据随机回答做出表情。
 
@@ -51,15 +51,15 @@ Unit 1
 
 #### ** 感觉很High **
 
-I'm `happy`.
+I'm `happy`. 😁
 
 #### ** 感觉想死 **
 
-I'm `sad`.
+I'm `sad`. 😂
 
 #### ** 即没有很High也还不想死 **
 
-I'm `fine`.
+I'm `fine`. 😎
 
 <!-- tabs:end -->
 
@@ -69,11 +69,15 @@ _熟悉26个英文字母_
 
 🚩**熟悉26个英文字母的拼读**
 
-### Sentence
+### 🧶Dialog
+
+!> What is it? 🅰
+
+?> It's A.
 
 !> What does 'A' say?
 
-?> 'A' says /æ/
+?> 'A' says /æ/.
 
 > 推荐观看《Alphablocks》节目学习自然拼读和单词。
 
@@ -82,3 +86,21 @@ _熟悉26个英文字母_
 !> What is it? 🦓
 
 ?> It's Zebra.
+
+## Lesson 3
+
+### Colorful Life
+
+!> What colour is it? 🩱 _/ What's the color (of the item)?_
+
+?> It's purple.
+
+🌈**[There's more colours here!](colours.md)**
+
+### The pit of number
+
+🚀Here is your number 1 to 500.
+
+## Lesson 4
+
+
