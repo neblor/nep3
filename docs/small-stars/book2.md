@@ -1,6 +1,12 @@
 Unit 1
 ===
 
+**Tag Icon**
+
+- Game || Train 🧶
+- Target 🚩
+- Advancement 🚀
+
 ## Lesson 1
 
 ### 🧶Happy & Sad
@@ -11,12 +17,12 @@ Unit 1
 
 背出人物及其名字，以及对应的动物名。
 
-- 🦉**`Mel`** is a `bird`
-- 🦄**`Zap`** is a `unicorn`, not `horse`
-- 👦**`Roddy`** is a `kid`
-- 🐻**`Ben`** is a `bear`
-- 🐸**`Kev`** is a `frog`
-- 🦔**`Vic`** is a `hedgehog`
+- **`Mel`** is a `bird` 🦉
+- **`Zap`** is a `unicorn`, not `horse` 🦄
+- **`Roddy`** is a `kid` 👦
+- **`Ben`** is a `bear` 🐻
+- **`Kev`** is a `frog` 🐸
+- **`Vic`** is a `hedgehog` 🦔
 
 ### Name question
 
@@ -73,13 +79,13 @@ _熟悉26个英文字母_
 
 !> What is it? 🅰
 
-?> It's A.
+?> It's `A`.
 
 !> What does 'A' say?
 
-?> 'A' says /æ/.
+?> 'A' says `/æ/`.
 
-## 👓Alphablocks
+### 👓Alphablocks
 
 **推荐观看《Alphablocks》节目学习自然拼读和单词。**
 
@@ -92,7 +98,7 @@ _熟悉26个英文字母_
 
 !> What is it? 🦓
 
-?> It's Zebra.
+?> It's `Zebra`.
 
 ## Lesson 3
 
@@ -102,12 +108,33 @@ _熟悉26个英文字母_
 
 ?> It's purple.
 
-🌈**[There's more colours here!](colours.md)**
+🧶**[There's more colours here!](colours.md)** 🌈
 
 ### The pit of number
 
-🚀Here is your number 1 to 500.
+🚀Here is your number `1 to 500`.
 
 ## Lesson 4
 
+### My strong body 💪
 
+- `arms`
+- `ears`
+- `eyes`
+- `face`
+- `hair`
+- `head`
+- `legs`
+- `mouth`
+- `nose`
+- `foot`
+- `teeth`
+- `chest`
+- `belly`
+- `hip` _(buttock)_
+
+### 🧶Number question
+
+!> How many are there? 🧁🧁🧁 _/ How many cakes are there on the table?_
+
+?> There are three.
