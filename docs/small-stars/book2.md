@@ -79,7 +79,14 @@ _熟悉26个英文字母_
 
 ?> 'A' says /æ/.
 
-> 推荐观看《Alphablocks》节目学习自然拼读和单词。
+## 👓Alphablocks
+
+**推荐观看《Alphablocks》节目学习自然拼读和单词。**
+
+- [Season 1](https://www.bilibili.com/video/av21345291)
+- [Season 2](https://www.bilibili.com/video/av21799282)
+- [Season 3](https://www.bilibili.com/video/av27920570)
+- [Season 4](https://www.bilibili.com/video/av27921037)
 
 ---
 
