@@ -108,13 +108,15 @@ _熟悉26个英文字母_
 
 ?> It's purple.
 
-🧶**[There's more colours here!](../small-stars/colours.md)** 🌈
+🧶**There's more colours here!** 🌈
+
+![colours](colours.png)
 
 ### The pit of number
 
 🚀Here is your number `1 to 500`.
 
-## Lesson 4
+## Lesson 4~6
 
 ### My strong body 💪
 
@@ -130,3 +132,15 @@ _熟悉26个英文字母_
 !> How many are there? 🧁🧁🧁 _/ How many cakes are there on the table?_
 
 ?> There are three.
+
+!> How many ears does Roddy have? 👂
+
+?> Two ears.
+
+!> How many noses does Roddy have?
+
+?> Roddy has one nose. 👃 _/ He/It has ..._
+
+### 🧶Painting Game
+
+一起画小怪兽吧！
