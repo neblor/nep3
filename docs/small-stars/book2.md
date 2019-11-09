@@ -110,7 +110,7 @@ _熟悉26个英文字母_
 
 ### The pit of number
 
-🚀Here is your number `1 to 50000`.
+🚀Here is your numbers `1 to 50000`.
 
 ### My strong body 💪
 
