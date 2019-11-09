@@ -1,4 +1,4 @@
-Unit 1
+Book 2
 ===
 
 **Tag Icon**
@@ -7,7 +7,7 @@ Unit 1
 - Target 🚩
 - Advancement 🚀
 
-## Lesson 1
+## Unit 1
 
 ### 🧶Happy & Sad
 
@@ -40,8 +40,6 @@ Unit 1
 
 - `Hello`
 - `Goodbye`
-
-## Lesson 2
 
 ### 🧶What's your name?
 
@@ -100,13 +98,11 @@ _熟悉26个英文字母_
 
 ?> It's `Zebra`.
 
-## Lesson 3
-
 ### Colorful Life
 
-!> What colour is it? 🩱 _/ What's the color (of the item)?_
+!> What colour is it? 🩲 _/ What's the color (of the item)?_
 
-?> It's purple.
+?> It's blue.
 
 🧶**There's more colours here!** 🌈
 
@@ -114,9 +110,7 @@ _熟悉26个英文字母_
 
 ### The pit of number
 
-🚀Here is your number `1 to 500`.
-
-## Lesson 4~6
+🚀Here is your number `1 to 50000`.
 
 ### My strong body 💪
 
@@ -124,8 +118,8 @@ _熟悉26个英文字母_
 |---|---|---|---|
 |`arms`|`ears`|`eyes`|`chest`|
 |`face`|`hair`|`head`|`belly`|
-|`legs`|`mouth`|`nose`|`hip`|
-|`foot`|`teeth`|||
+|`legs`|`mouth`|`nose`||
+|`feet`(`foot`)|`teeth`(`tooth`)|||
 
 ### 🧶Number question
 
