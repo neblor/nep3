@@ -7,7 +7,7 @@ Book 2
 - Target 🚩
 - Advancement 🚀
 
-## Unit 1
+## Unit 1 ~ 2
 
 ### 🧶Happy & Sad
 
@@ -139,6 +139,28 @@ _熟悉26个英文字母_
 
 一起画小怪兽吧！
 
-## Unit 2
+## Unit 3
 
-...
+### These are my `toys`!
+
+- It's a `ball`(`football`). ⚽
+- It's a `car`. 🚗
+- It's a `doll`. 🎎
+- Let's play `game`. 🎮
+- It's a `puzzle`. 🧩
+- It's a `robot`. 🤖
+- It's a `teddy bear`. 🧸
+
+### 🧶Toy question
+
+!> What is it? 🚗
+
+?> It's a car.
+
+!> What colour is it?
+
+?> It's red.
+
+!> How many balls are there on the sofa?  🏐🏐🏐
+
+?> There are three. _/ There are three balls on the sofa._
