@@ -164,3 +164,17 @@ _熟悉26个英文字母_
 !> How many balls are there on the sofa?  🏐🏐🏐
 
 ?> There are three. _/ There are three balls on the sofa._
+
+### 🧶Have question
+
+!> Do you like Toys?
+
+?> Yes, I do.
+
+!> Do you have a car?
+
+?> Yes, I do.
+
+!> Do you have a teddy bear?
+
+?> No, I don't.
