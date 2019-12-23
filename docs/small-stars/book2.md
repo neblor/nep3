@@ -81,7 +81,7 @@ _熟悉26个英文字母_
 
 ?> 'A' says `/æ/`.
 
-!> What's the sound? 🅱
+!> What's the (letter) sound? 🅱
 
 ?> `/b/`.
 
