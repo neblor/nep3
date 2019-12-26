@@ -183,15 +183,15 @@ Here is your numbers `1 to 50000`.
 
 ### 🧶Words about `stationeries`
 
-- It's my `crayon`. 🖍
-- It's my `eraser`.
-- It's my `glue`. 🧴
-- It's my `paper`. 📃
-- It's my `pen`. 🖊
-- It's my `pencil`. ✏
-- It's my `pencil case`.
-- It's my `ruler`. 📏
-- It's my `scissors`. ✂
+- It's a `crayon`. 🖍
+- It's an `eraser`.
+- It's `glue`. 🧴 _不可数_
+- It's `paper`. 📃 _不可数，表示数量加量词`a piece of paper`_
+- It's a `pen`. 🖊
+- It's a `pencil`. ✏
+- It's a `pencil case`.
+- It's a `ruler`. 📏
+- It's `scissors`. ✂ _单复同形，表示数量加量词`a pair of scissors`_
 
 ### 🧶Dialog about `stationeries`
 
