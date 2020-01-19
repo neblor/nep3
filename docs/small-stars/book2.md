@@ -28,7 +28,7 @@ Book 2
 
 !> What's your name? _/ Who are you?_
 
-?> I'm **Neplor**.
+?> I'm **Neblor**.
 
 !> Who is she?
 
