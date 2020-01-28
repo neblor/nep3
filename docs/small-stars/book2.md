@@ -7,7 +7,9 @@ Book 2
 - Target 🚩
 - Advancement 🚀
 
-## Unit 1 ~ 2 `Talking about A-Z`
+## Unit 1 ~ 2
+
+**Talking about A-Z**
 
 ### 🧶Play the `happy & sad game`
 
@@ -147,6 +149,8 @@ Here is your numbers `1 to 50000`.
 
 ## Unit 3
 
+**Toys**
+
 ### 🧶Words about `toys`
 
 - It's a `ball`(`football`). ⚽
@@ -157,7 +161,7 @@ Here is your numbers `1 to 50000`.
 - It's a `robot`. 🤖
 - It's a `teddy bear`. 🧸
 
-### 🧶Dialog about `toy`
+### 🧶Dialog about `toys`
 
 !> What is it? 🚗
 
@@ -180,6 +184,8 @@ Here is your numbers `1 to 50000`.
 ?> There are three. _/ There are three buses on the sofa._
 
 ## Unit 4
+
+**Stationery**
 
 ### 🧶Words about `stationeries`
 
@@ -208,3 +214,42 @@ Here is your numbers `1 to 50000`.
 ?> Yes, I do.
 
 ## Unit 5
+
+**Farm Animals**
+
+### 🧶Words about `animals`
+
+- It's a `cow`. 🐄
+- It's a `bull`. 🐂
+- It's an `octopus`. 🐙
+- It's a `kitten`. 🐈
+- It's a `lion`.
+- It's a `dragon`. 🐲
+- It's a `pig`. 🐖
+- It's a `sheep`. 🐑
+- It's a `horse`. 🐎
+- It's a `duck`. 🦆
+- It's a `frog`. 🐸
+- It's a `crab`. 🦀
+- It's an `alpaca`.
+-
+### 🧶Words about `actions`
+
+- It's running.
+- It's jumping.
+- It's swimming.
+- It's flying.
+- It's sleeping.
+- It's eating.
+- It's drinking.
+- He is driving.
+
+### 🧶Dialog about `animals`
+
+!> What is it?  🦙
+
+?> It's an `alpaca`.
+
+!> What is it doing?
+
+?> It's eating.
