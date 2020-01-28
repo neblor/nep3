@@ -234,14 +234,14 @@ Here is your numbers `1 to 50000`.
 
 ### 🧶Words about `actions`
 
-- It's running.
-- It's jumping.
-- It's swimming.
-- It's flying.
-- It's sleeping.
-- It's eating.
-- It's drinking.
-- He is driving.
+- It's `running`.
+- It's `jumping`.
+- It's `swimming`.
+- It's `flying`.
+- It's `sleeping`.
+- It's `eating`.
+- It's `drinking`.
+- He is `driving`.
 
 ### 🧶Dialog about `animals`
 
@@ -251,4 +251,4 @@ Here is your numbers `1 to 50000`.
 
 !> What is it doing?
 
-?> It's eating.
+?> It's `eating`.
