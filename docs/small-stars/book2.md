@@ -231,8 +231,7 @@ Here is your numbers `1 to 50000`.
 - It's a `duck`. 🦆
 - It's a `frog`. 🐸
 - It's a `crab`. 🦀
-- It's an `alpaca`.
--
+
 ### 🧶Words about `actions`
 
 - It's running.
