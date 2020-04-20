@@ -252,3 +252,28 @@ Here is your numbers `1 to 50000`.
 !> What is it doing?
 
 ?> It's `eating`.
+
+## Unit 6
+
+> Just phonics.
+
+## Unit 7
+
+### 🧶Words about `clothes`
+
+- `coat`
+- `cap`
+- `shoes`
+- `socks`
+- `pants`
+- `shorts`
+- `skirt`
+- `dress`
+- `sweater`
+- `clothes`
+
+### 🧶Dialog about `wearing`
+
+!> What are you wearing? 👕
+
+?> I'm wearing a `T-shirt`.
