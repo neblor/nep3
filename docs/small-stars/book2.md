@@ -143,6 +143,14 @@ Here is your numbers `1 to 50000`.
 
 ?> Roddy has one nose. 👃 _/ He/It has ..._
 
+!> What's it? 👄
+
+?> It's my mouth.
+
+!> What are they? 🤲
+
+?> They are my hands.
+
 ### 🧶Play the `painting game`
 
 一起画小怪兽吧！
@@ -191,13 +199,14 @@ Here is your numbers `1 to 50000`.
 
 - It's a `crayon`. 🖍
 - It's an `eraser`.
-- It's `glue`. 🧴 _不可数_
-- It's `paper`. 📃 _不可数，表示数量加量词`a piece of paper`_
+- It's `glue`. 🧴 _不可数 表示数量加量词`a bottle of glue`_
+- It's `paper`. 📃 _不可数 表示数量加量词`a sheet(piece) of paper`_
 - It's a `pen`. 🖊
 - It's a `pencil`. ✏
 - It's a `pencil case`.
 - It's a `ruler`. 📏
-- It's `scissors`. ✂ _单复同形，表示数量加量词`a pair of scissors`_
+- They are `scissors`. ✂ _单复同形，没有`s`时为动词_
+- It's `a pair of scissors`. _表示数量加量词`a pair of scissors`_
 
 ### 🧶Dialog about `stationeries`
 
@@ -277,3 +286,19 @@ Here is your numbers `1 to 50000`.
 !> What are you wearing? 👕
 
 ?> I'm wearing a `T-shirt`.
+
+!> What are they? 🩳
+
+?> They are `shorts`.
+
+!> What are they? 👖
+
+?> They are `pants(trousers)`.
+
+!> What are they? 🧦
+
+?> They are `socks`.
+
+!> What is it? 👒🧢
+
+?> It's a `hat(cap)`.
