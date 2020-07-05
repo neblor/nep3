@@ -363,3 +363,18 @@ Here is your numbers `1 to 50000`.
 
 ?> It's cold and rainy.
 
+## Unit 10
+
+### 🧶Words about `numbers`
+
+> He is millioned...
+
+### 🧶Dialog about `quantity`
+
+!> How many cars are there on the table?
+
+?> There are 20 cars.
+
+!> How many boats are there in the river?
+
+?> There are 12,067 boats.
