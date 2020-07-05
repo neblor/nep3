@@ -302,3 +302,64 @@ Here is your numbers `1 to 50000`.
 !> What is it? 👒🧢
 
 ?> It's a `hat(cap)`.
+
+## Unit 8
+
+### 🧶Words about `position`
+
+- `in`
+- `on`
+- `under`
+- `over`
+
+### 🧶Words about `classroom`
+
+- `table`
+- `chair`
+- `board`
+- `desk`
+- `door`
+- `window`
+- `bin`
+
+### 🧶Dialog about `classroom`
+
+!> Where is the pen? 🖊
+
+?> The pen's on the desk.
+
+!> Where is the paper? 📄
+
+?> The paper's in the bin.
+
+!> Where is the eraser?
+
+?> The eraser's on the desk.
+
+## Unit 9
+
+### 🧶Words about `weather`
+
+- `hot`
+- `cold`
+- `sunny`
+- `rainy`
+- `snowy`
+- `windy`
+- `cloudy`
+- `foggy`
+- `clear`
+- `overcast`
+- `wet`
+- `dry`
+- `light rain`
+- `heavy rain showers`
+- `freezy`
+- `fog patches`
+
+### 🧶Dialog about `weather`
+
+!> What's the weather looks like? ☔❄
+
+?> It's cold and rainy.
+
