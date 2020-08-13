@@ -33,6 +33,34 @@ Book 3
 
 ?> It's my sister.
 
+### 🧶Dialog about `count items`
+
+!> How many red items are there on the table?
+
+?> There are five red items on the table.
+
+### 🧶Dialog about `animals kind`
+
+!> What kind of animal is Kev? _(or it)_
+
+?> Kev is a frog.
+
+!> What kind of animal is Mel?
+
+?> Mel is a bird.
+
+!> What kind of animal is Ben?
+
+?> Ben is a bear.
+
+!> What kind of animal is Vic?
+
+?> Vic is a hedgehog.
+
+!> What kind of animal is Zap?
+
+?> Zap is a unicorn.
+
 ### 🧶Words about `family`
 
 - It's my `aunt`.
