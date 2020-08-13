@@ -2,6 +2,7 @@
 
 - Small Stars
   - [Book 2](small-stars/book2.md)
+  - [Book 3](small-stars/book3.md)
 
 - The Way of Neprius
   - [PreK Points](nep-way/prek-points.md)
