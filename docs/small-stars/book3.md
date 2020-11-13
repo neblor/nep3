@@ -115,11 +115,11 @@ Book 3
 !> What did you do today?
 
 ?> I played roller-skating.
-?> I played scooter.
-?> I played football.
-?> I rode my bike, I ride bike well. (I played cycling.)
-?> I played my car toys.
-?> I played need for speed(dirt4) on playstation.
+> I played scooter.
+> I played football.
+> I rode my bike, I ride bike well. (I played cycling.)
+> I played my car toys.
+> I played need for speed(dirt4) on playstation.
 
 ## Unit 3
 
