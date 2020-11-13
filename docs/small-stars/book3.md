@@ -1,6 +1,13 @@
 Book 3
 ===
 
+## Additional
+
+### Words
+
+- `once upon a time` 从前
+- `suddenly` 突然
+
 ## Unit 1
 
 ### 🧶Dialog about `introduce yourself`
@@ -72,3 +79,153 @@ Book 3
 - It's my `mother`.
 - It's my `sister`.
 - It's my `uncle`.
+
+## Unit 2
+
+### 🧶Words about `commonly`
+
+- `bag`
+- `box`
+- `red`
+- `pen`
+- `can`
+- `leg`
+- `run`
+- `yes`
+- `bad`
+- `good`
+- `no`
+- `big`
+- `small`
+- `bin`
+- `cap`
+- `hat`
+- `hot`
+- `sad`
+- `happy`
+- `and`
+- `or`
+-
+### 🧶Dialog about `me`
+
+!> When's your birthday?
+
+?> My birthday is on `March` 3rd.
+
+!> What did you do today?
+
+?> I played roller-skating.
+?> I played scooter.
+?> I played football.
+?> I rode my bike, I ride bike well. (I played cycling.)
+?> I played my car toys.
+?> I played need for speed(dirt4) on playstation.
+
+## Unit 3
+
+### 🧶Words about `zoo animals`
+
+- `bear`
+- `crocodile`
+- `elephant`
+- `giraffe`
+- `lion`
+- `monkey`
+- `panda`
+- `snake`
+- `tiger`
+- `zebra`
+- `mane` //_鬃毛，浓密的头发_
+
+### 🧶Dialog about `animals`
+
+!> What's this?
+
+?> It's a `bear`.
+
+!> What's that?
+
+?> It's a `crocodile`.
+
+!> What animal is `over here`?
+
+?> It's an `elephant`.
+
+!> What animal is `over there`?
+
+?> It's a `tiger`.
+
+!> What animal is `beside` Mel?
+
+?> It's a `zebra`.
+
+!> What color does `zebras` look like?
+
+?> It looks `white` and `black`.
+
+!> Do you like `zebras`?
+
+?> Yes, I do. / No, I don't.
+
+!> What can they do?
+
+?> They can `run`, `eat` and `sleep`.
+
+!> What can `monkeys` do?
+
+?> `Monkeys`(They) can `climb`, `jump`, `play`, `eat` and `sleep`.
+
+## Unit 4
+
+### 🧶Words about `fruit and vegetables`
+
+> `Fruit`通常作不可数名词
+
+- `apple`
+- `pear`
+- `orange`
+- `beans`
+- `carrot`
+- `grapes`
+- `lemon`
+- `mango`
+- `pear`
+- `pineapple`
+- `potato`
+- `straberries`
+- `watermelon`
+- `banana`
+- `tomato` //_番茄_
+- `pomelo` //_柚子_
+- `cherries` //_樱桃_
+- `peach`
+- `blueberries`
+- `persimmon` //_柿子_
+- `pomegranate` //_石榴_
+- `durian` //_榴莲_
+- `kiwi fruit` //_猕猴桃_
+- `okra` //_秋葵_
+- `lettuce` //_莴笋/莴苣_
+- `litchi` //_荔枝_
+- `haw` //_山楂_
+- `waxberry` //_杨梅_
+- `plum` //_李子_
+- `longan` //_桂圆_
+- `loquat` //_枇杷_
+- `pawpaw` //_木瓜_
+- `hami melon` //_哈密瓜_
+- `melon` //_甜瓜（大类）_
+
+### 🧶Dialog about `fruit and vegetables`
+
+!> How many `mangos` are there on the table?
+
+?> There are three `mangos`.
+
+!> What `fruit` do you like?
+
+?> I like `apples` and `pears`.
+
+!> What does apples `taste`? / How does apples `taste`?
+
+?> It tastes `sour` and `sweet`.
