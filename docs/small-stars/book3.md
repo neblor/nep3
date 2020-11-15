@@ -110,7 +110,7 @@ Book 3
 
 !> When's your birthday?
 
-?> My birthday is on `March` 3rd.
+?> My birthday is on `March` 4th.
 
 !> What did you do today?
 
