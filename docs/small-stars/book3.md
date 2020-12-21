@@ -7,6 +7,9 @@ Book 3
 
 - `once upon a time` 从前
 - `suddenly` 突然
+- `word` 单词
+- `sentence` 句子
+- `world` 世界
 
 ## Unit 1
 
@@ -101,6 +104,7 @@ Book 3
 - `cap`
 - `hat`
 - `hot`
+- `fine`
 - `sad`
 - `happy`
 - `and`
@@ -114,7 +118,7 @@ Book 3
 
 !> What did you do today?
 
-?> I played roller-skating.
+?> I played roller skating.
 
 ?> I played scooter.
 
@@ -234,3 +238,101 @@ Book 3
 !> What does apples `taste`? / How does apples `taste`?
 
 ?> It tastes `sour` and `sweet`.
+
+## Unit 5
+
+### 🧶Words about `sports`
+
+- `playing badminton`
+- `playing basketball`
+- `playing football`
+- `playing table tennis`
+- `playing tennis`
+- `running`
+- `swimming`
+- `skating`
+- `roller skating`
+- `playing scooter`
+- `snorkel` 潜水呼吸管
+- `scary` 可怕的
+- `scare` 害怕
+- `stone` 石头，宝石
+- `rock` 岩石（天然的，大块的）
+- `important` 重要的
+- `similar` 相似的
+- `sweat` 出汗 _ea发e_
+- `cycling` 骑车
+- `riding bike`
+- `skating in the snow`
+- `Ben smiles`
+
+### 🧶Sentences about `sports`
+
+!> What do you like doing?
+
+?> I like playig scooter.
+
+!> What can you see? 🦊
+
+?> I can see a fox.
+
+!> What do `t` and `r` say?
+
+?> `tr` says /tr/.
+
+!> What does cat sound?
+
+?> It sounds `meow`.
+
+!> What word has `br`?
+
+?> `bread`.
+
+!> What word has `br`?
+
+?> `bread`.
+
+## Unit 6
+
+### 🧶Words
+
+- `step`
+- `smile`
+- `brush`
+- `drum`
+- `drop`
+- `frog`
+- `crab`
+- `drip`
+- `tree`
+- `flap`
+- `flop`
+- `flip` 翻转
+- `slip`
+- `clap`
+- `swim`
+- `run`
+- `bump`
+- `jump`
+- `hand`
+- `pond`
+- `gift`
+- `bank`
+- `pink`
+- `can`
+- `left`
+- `right`
+- `front`
+- `back`
+- `up`
+- `down`
+
+### 🧶Sentences about `words`
+
+!> What does Kev like doing?
+
+?> Kev like playing football.
+
+!> What can monkeys do?
+
+?> They can clap and jump.
