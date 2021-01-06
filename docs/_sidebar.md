@@ -14,3 +14,6 @@
 
 - 七元素
   - [风暴中的闪烁](episodes/19609-storm-twinkle.md)
+
+- 短篇系列
+  - [隐秘飞行](short/fly-in-secret.md)
