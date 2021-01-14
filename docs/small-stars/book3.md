@@ -336,3 +336,43 @@ Book 3
 !> What can monkeys do?
 
 ?> They can clap and jump.
+
+## Unit 7
+
+### 🧶Sentences about `morning`
+
+!> How many apples can you see?
+
+?> I saw ten apples. / There are ten apples.
+
+!> What is Roddy doing?
+
+?> He is getting up.
+
+?> He is brushing his teeth. / She ... her
+
+?> He is washing his face.
+
+?> He is getting dressed.
+
+?> He is brushing his hair.
+
+?> He is eating breakfast.
+
+?> He is going to school.
+
+!> What do you do in the morning?
+
+?> I get up in the morning.
+
+?> I brush my teeth in the morning.
+
+?> I wash my face in the morning.
+
+?> I get dressed in the morning.
+
+?> I brush my hair in the morning.
+
+?> I eat breakfast in the morning.
+
+?> I go to school in the morning.
