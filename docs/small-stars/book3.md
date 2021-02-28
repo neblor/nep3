@@ -339,6 +339,16 @@ Book 3
 
 ## Unit 7
 
+### 🧶Words about `morning`
+
+- `brush my hair`
+- `brush my teeth`
+- `eat breakfast`
+- `get dressed`
+- `get up`
+- `go to school`
+- `wash my face`
+
 ### 🧶Sentences about `morning`
 
 !> How many apples can you see?
@@ -363,9 +373,7 @@ Book 3
 
 !> What do you do in the morning?
 
-?> I get up in the morning.
-
-?> I brush my teeth in the morning.
+?> I get up and brush my teeth in the morning.
 
 ?> I wash my face in the morning.
 
@@ -376,3 +384,28 @@ Book 3
 ?> I eat breakfast in the morning.
 
 ?> I go to school in the morning.
+
+## Unit 8
+
+### 🧶Words about `friend and family`
+
+- `beautiful`
+- `clever`
+- `fat`
+- `friendly`
+- `funny`
+- `old`
+- `short`
+- `tall`
+- `thin`
+- `young`
+
+### 🧶Sentences about `words`
+
+!> Who's this?
+
+?> It's my friend.
+
+!> Is she tall?
+
+?> No, she isn't. / _Yes, she is._
