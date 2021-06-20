@@ -414,4 +414,39 @@ Book 3
 
 ### 🧶Words about `bedroom`
 
+- `bed`
+- `bookcase`
+- `clock`
+- `lamp`
+- `TV` / `television`
+- `wardrobe`
+- `behind`
+- `in front of`
+- `next to`
+
 ### 🧶Sentences about `bedroom`
+
+!> Where is the bed?
+
+?> The bed is in front of the desk.
+
+## Unit 10
+
+### 🧶Words about `house`
+
+- bathroom
+- bedroom
+- dining room
+- garden
+- kitchen
+- living room
+
+### 🧶Sentences about `house`
+
+!> What is it?
+
+?> It's the kitchen.
+
+!> What's in the kitchen?
+
+?> The clock is in the kitchen.
