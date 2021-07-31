@@ -12,6 +12,50 @@ Book 4
 - pond
 - river
 - tree
+- frog
+- jump
+- next
+- pond
+- swim
+- behind
+- next to
+- in front of
+- black
+- blue
+- brown
+- green
+- orange
+- pink
+- red
+- white
+- yellow
+- bush
+- flower
+- mountain
+- plant
+- pond
+- river
+- tree
+- one
+- two
+- three
+- four
+- five
+- six
+- seven
+- eight
+- nine
+- ten
+- eleven
+- twelve
+- thirteen
+- fourteen
+- fifteen
+- sixteen
+- seventeen
+- eighteen
+- nineteen
+- twenty
 
 ### 🧶Sentences about `world`
 
@@ -30,6 +74,30 @@ Book 4
 !> Where is the tree?
 
 ?> It's next to the pond.
+
+!> What colour is it?
+
+?> It's purple.
+
+!> What does Kev like doing?
+
+?> Kev like swimming.
+
+!> What do you like doing?
+
+?> I like riding my bike.
+
+!> Do you like playing football?
+
+?> Yes, I do.
+
+!> Do you like swimming?
+
+?> No, I don't.
+
+!> What does Kev doing?
+
+?> Kev is swimming in the pond.
 
 ## Unit 2
 
